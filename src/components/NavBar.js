@@ -7,3 +7,6 @@ function NavBar() {
     </nav>
   );
 }
+
+// Default export
+export default NavBar;
